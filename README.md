@@ -18,3 +18,4 @@ Laboratory nr.1 and nr.2 for PAD course
 * Gateway – Service High Availability
 
 ## System architecture:
+![Architecture](https://user-images.githubusercontent.com/70898955/225134317-3142aed0-b8e7-49da-a363-df428f68ab23.png)
